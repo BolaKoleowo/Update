@@ -2,13 +2,14 @@ body{
   background-color: white;
 
 }
-
+.AboutUs,
 .careers,
 .freetime,
 .wellbeing{
     font-family :'Feltpoint';
     font-size :20px;
     background-color:lightblue;
+    color: darkblue;
     padding: 10px;
     text-align: center;
     font-family: sans-serif;
@@ -67,7 +68,7 @@ h3{
  h1{
   text-align: center;
   background-color: white;
-  color: red;
+  color: darkblue;
   padding-box: 50px;
   font-size: 70px;
   font-weight: bold;

@@ -8,11 +8,12 @@ body{
 .wellbeing{
     font-family :'Feltpoint';
     font-size :20px;
-    background-color:lightblue;
+    background-color:white;
     color: darkblue;
     padding: 10px;
     text-align: center;
     font-family: sans-serif;
+
   }
 
 
@@ -51,7 +52,7 @@ body {
      font-size: 17px;
    }
  label{
-   font-family: monospace;
+   font-family: sans-serif;
    margin: 100px 0 0 0;
    color: black;
 
@@ -59,7 +60,7 @@ body {
 
 
 h3{
-  font-family : monospace;
+  font-family : sans-serif;
   font-style: italic;
   color: black;
   text-align: center;
